@@ -5,12 +5,12 @@
 %include	/usr/lib/rpm/macros.php
 Summary:	%{pearname} - Horde Form API
 Name:		php-horde-Horde_Form
-Version:	1.0.4
+Version:	1.0.5
 Release:	1
 License:	LGPL
 Group:		Development/Languages/PHP
 Source0:	http://pear.horde.org/get/%{pearname}-%{version}.tgz
-# Source0-md5:	06f30770fa7127c2f339940d9a324df0
+# Source0-md5:	17bc48ad875f907d75be5bebaca4d1ff
 URL:		https://github.com/horde/horde/tree/master/framework/Form/
 BuildRequires:	php-channel(pear.horde.org)
 BuildRequires:	php-packagexml2cl
