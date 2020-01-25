@@ -2,7 +2,6 @@
 # - system locale dir
 %define		status		stable
 %define		pearname	Horde_Form
-%include	/usr/lib/rpm/macros.php
 Summary:	%{pearname} - Horde Form API
 Name:		php-horde-Horde_Form
 Version:	1.1.0
